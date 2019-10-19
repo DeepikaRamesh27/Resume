@@ -25,7 +25,7 @@
 
 ## Workshops
 - **Natural Language Processing**  
-Coimbatore Instituite Of Technology 
+Coimbatore Institute Of Technology 
 - **Mobile App Development**  
 Velammal College Of Engineering And Technology
 
