@@ -10,9 +10,9 @@
 *CGPA 7.34*  
 *May 2020*  
 **C.S.Ramachary Matriculation Higher Secondary School** 
- HSC
+ HSC  
 *Percentage 88%*  
-*May 2016*  
+*May 2014*   
 **Anusha Vidyalaya Matriculation Higher Secondary School**  
  SSLC  
 *Percentage 96%*  
