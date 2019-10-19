@@ -3,14 +3,14 @@
 
 # Deepika Ramesh
 ## Career Objective
-   To pursue a highly challenging and creative career, where i can apply my existing knowledge and creativity
+   To pursue a highly challenging and creative career, where I can apply my existing knowledge and creativity
 ## Education
 **Velammal College Of Engineering And Technology**  
  B.Tech in Information Technology  
 *CGPA 7.34*  
 *May 2020*  
 **C.S.Ramachary Matriculation Higher Secondary School** 
- HSC  
+ HSC
 *Percentage 88%*  
 *May 2016*  
 **Anusha Vidyalaya Matriculation Higher Secondary School**  
