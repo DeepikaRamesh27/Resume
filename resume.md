@@ -5,18 +5,11 @@
  ## <ins> Career Objective: </ins>
    To pursue a highly challenging and creative career, where I can apply my existing knowledge and creativity
 ## <ins> Education: </ins>
-**Velammal College Of Engineering And Technology**  
- B.Tech in Information Technology  
-*CGPA 7.34*  
-*May 2020*  
-**C.S.Ramachary Matriculation Higher Secondary School**  
- HSC  
-*Percentage 88%*  
-*May 2014*     
-**Anusha Vidyalaya Matriculation Higher Secondary School**  
- SSLC  
-*Percentage 96%*  
-*May 2014*   
+ |Sl.No|QUALIFICATION|NAME OF THE INSTITUTE|YEAR OF PASSING|PERCANTAGE|
+ |-----|-------------|---------------------|---------------|----------|
+ |1|B.tech(IT)|Velammal College Of Engineering And Technology, Madurai|May 2020|7.34|
+ |2|H.S.C|C.S.Ramachary Higher Secondary School, Madurai|May 2016|88%|
+ |3|S.S.L.C|Anusha Vidyalaya Matriculation Higher Secondary School, Madurai|May 2020|96%|
 
 ## <ins>Area Of Interest: </ins>
 - Database Management System
