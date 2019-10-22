@@ -2,9 +2,9 @@
 [8838331990](tel:8838331990)
 
 # Deepika Ramesh
-## Career Objective
+ ## <ins> Career Objective: </ins>
    To pursue a highly challenging and creative career, where I can apply my existing knowledge and creativity
-## Education
+## <ins> Education: </ins>
 **Velammal College Of Engineering And Technology**  
  B.Tech in Information Technology  
 *CGPA 7.34*  
@@ -18,19 +18,38 @@
 *Percentage 96%*  
 *May 2014*   
 
-## Tools
-- Front End Languages &ndash; HTML, CSS 
-- Database Languages &ndash; MySQL
-- Programming Languages &ndash; C, C++
+## <ins>Area Of Interest: </ins>
+- Database Management System
 
-## Workshops
+## <ins>Mini Projects: </ins>
+- Course Registration System- HTML,CSS,PHP
+- E-Billing Application
+
+## <ins>Workshops: </ins>
 - **Natural Language Processing**  
 Coimbatore Institute Of Technology 
 - **Mobile App Development**  
 Velammal College Of Engineering And Technology
 
-## In-Plant Trainings
+## <ins>In-Plant Trainings: </ins>
 - **PYTHON TRAINING**  
 Kalvi Technologies, Madurai. 
 *May 2017*
+
+## <ins>Paper Presentation: </ins>
+- **FLIGHT ALTITUDE MONITORING SYSTEM (FAMS)** at Bannari Amman College Of Engineering, Erode
+
+## <ins>Cocurricular Activity: </ins>
+- Active Invlovement in Quality Circle
+- Member Of Eco Club
+
+## <ins>Personal Profile: </ins>
+ Father's Name   : L.Ramesh
+ Mother's Name   : R.Alamu
+ Date Of Birth   : 27.07.1999
+ Nationality     : Indian
+ Hobbies         : Listening Music
+ Languages Known : Tamil & English
+ Passport        : In Process
+
 
