@@ -1,4 +1,4 @@
-:email: >[deepuamri@gmail.com](mailto:deepuamri@gmail.com) | 
+:email: [deepuamri@gmail.com](mailto:deepuamri@gmail.com) | 
  :telephone_receiver: [8838331990](tel:8838331990)
 
 # DEEPIKA RAMESH
