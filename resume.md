@@ -1,7 +1,7 @@
 >[deepuamri@gmail.com](mailto:deepuamri@gmail.com) | 
 [8838331990](tel:8838331990)
 
-# Deepika Ramesh
+# DEEPIKA RAMESH
  ## <ins> Career Objective: </ins>
    To pursue a highly challenging and creative career, where I can apply my existing knowledge and creativity
 ## <ins> Education: </ins>
@@ -44,12 +44,18 @@ Kalvi Technologies, Madurai.
 - Member Of Eco Club
 
 ## <ins>Personal Profile: </ins>
- Father's Name   : L.Ramesh
- Mother's Name   : R.Alamu
- Date Of Birth   : 27.07.1999
- Nationality     : Indian
- Hobbies         : Listening Music
- Languages Known : Tamil & English
- Passport        : In Process
+**Father's Name**   : L.Ramesh
+
+**Mother's Name**   : R.Alamu
+
+**Date Of Birth**   : 27.07.1999
+
+**Nationality**     : Indian
+
+**Hobbies**         : Listening Music
+
+**Languages Known** : Tamil & English
+
+**Passport**        : In Process
 
 
