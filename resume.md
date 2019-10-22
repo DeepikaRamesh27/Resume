@@ -1,5 +1,5 @@
->[deepuamri@gmail.com](mailto:deepuamri@gmail.com) | 
-[8838331990](tel:8838331990)
+:email: >[deepuamri@gmail.com](mailto:deepuamri@gmail.com) | 
+ :telephone_receiver: [8838331990](tel:8838331990)
 
 # DEEPIKA RAMESH
  ## <ins> Career Objective: </ins>
@@ -44,18 +44,18 @@ Kalvi Technologies, Madurai.
 - Member Of Eco Club
 
 ## <ins>Personal Profile: </ins>
-**Father's Name**   : L.Ramesh
+**Father's Name**    : L.Ramesh
 
-**Mother's Name**   : R.Alamu
+**Mother's Name**    : R.Alamu
 
-**Date Of Birth**   : 27.07.1999
+**Date Of Birth**    : 27.07.1999
 
-**Nationality**     : Indian
+**Nationality**      : Indian
 
-**Hobbies**         : Listening Music
+**Hobbies**          : Listening Music
 
-**Languages Known** : Tamil & English
+**Languages Known**  : Tamil & English
 
-**Passport**        : In Process
+**Passport**         : In Process
 
 
