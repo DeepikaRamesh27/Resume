@@ -1,4 +1,4 @@
-<img src="Deepika.R.JPG" height="150" width="100" align="right"/>
+<img src="Deepika.R.JPG" height="150" width="100" align="CENTRE"/>
 
  :email:[deepuamri@gmail.com](mailto:deepuamri@gmail.com)| 
  :telephone_receiver:[8838331990](tel:8838331990)
